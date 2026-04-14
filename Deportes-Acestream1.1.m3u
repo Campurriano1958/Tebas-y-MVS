@@ -324,8 +324,8 @@ acestream://02ec118ee4586d96df9115ffc486be9a499d00d9
 acestream://108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz84rt4cqxAOfBf8eM7wXBZzDEVp6lkzLr7w&usqp=CAU " tvg-id="UFC"group-title="UFC", UFC
 acestream://96537527b2d5e858b2e6c863a00dec304254091d
-#EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" MOTOR", RALLY TV
-http://ag154.pjoejsvp.top:8080/live/vip5011768122994/95f89d016cbe/128955.ts
+EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" MOTOR", RALLY TV
+
 #EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" MOTOR", RALLY TV
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
 #EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" MOTOR", RALLY TV
