@@ -3,7 +3,7 @@ EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtpB3n-ZOdpwtI48yUVgFH3vqNG7D9LaG9g&s"tvg-id="M+La LigaTV HD" group-title=" LA LIGA",M+La Liga 
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtpB3n-ZOdpwtI48yUVgFH3vqNG7D9LaG9g&s"tvg-id="M+La LigaTV HD" group-title="LA LIGA",⭐️M+ LaLiga ⭐️
 acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA",⭐️M+ LaLiga⭐️
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
