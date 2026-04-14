@@ -483,9 +483,9 @@ acestream://83c02982581a536d1321e38a77dc0c520b1cb842
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 8" group-title="LIGA DE CAMPEONES", ML CAMPEONES 8
 acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 9" group-title="LIGA DE CAMPEONES", ML CAMPEONES 9
-
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVztRAAzOyEWKrAU4Wx0ITOLA9TlRA749d2w&usqp=CAU="24 horas" group-title="Generalistas", 24 horas
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
+acestream://b55d1a3d7a5121af685668d5f5e7baeb3ebab70e
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVztRAAzOyEWKrAU4Wx0ITOLA9TlRA749d2w&usqp=CAU="24 horas" group-title="Generalistas", 24 horas
 acestream://cc5ed178702605513cd18b4899c4be954d306cca
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
 acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
