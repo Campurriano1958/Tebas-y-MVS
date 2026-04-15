@@ -556,8 +556,8 @@ EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://do
 acestream://fc469b1e22f9a75bf7079995876955b9b293ef7e
 EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfbaPuqBQzEmS9TtPa8os_P2VzVaaNm0Fi7A&s  ", AMC
 acestream://55ff9ee631af351f365f51cf3601695bf1fd20f3
-EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png",DeCasa
-acestream://155d742120310a0ca80b0c8833d94979aa7f0b08
+#EXTINF:-1 tvg-logo="  https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png",DeCasa
+acestream://b331dcd389eaf6d4af356245cc0a02a3c478d3ed
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv9d5KlqJ7jAyOV1SBC2aBmomGpJXvfHaILA&s  ",Dark
 acestream://25465ea2deba65c623b7659136abf6fcc9f5dc20
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlCPxOLDCnel5I5-3A96NDC2ZcRvkSkcY3nQ&s ",syFy
