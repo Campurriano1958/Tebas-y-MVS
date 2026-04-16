@@ -566,6 +566,8 @@ acestream://25465ea2deba65c623b7659136abf6fcc9f5dc20
 acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
 #EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/ZDSjarTntWnvUp47rSsoVwbT7PU-FqDHSkzQ5nc0CTlAbujoKUQr2_jw7QBbMF2hmQ ",Onetoro
 acestream://877eceeaf9f3bd9b392359323d03d0ac3bb27312
+#EXTINF:-1 tvg-logo="   ", Disney Junior
+acestream://a722bc25dfa16d1112fde83cb79501b9756586d1
 EXTINF:-1 tvg-logo=" https://www.cineytele.com/wp-content/uploads/2023/01/XTRM.png ",XTRM
 acestream://d7d3830018cfd93c7430c19ba703a053680476a0
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVHGvvOfOJ3cHAiJZ9p9H8DtnaSKFew9FzmQ&s ", Caza y Pesca
