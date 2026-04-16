@@ -1,3 +1,4 @@
+
 EXTM3U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
@@ -517,9 +518,9 @@ acestream://3e7b1911a1f83fd869b6995650a3057778259ca7
 acestream://bd38dba903a3d627fb053c9d907b1635a52fba3b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
 acestream://6fa8e5288e9b91c926134362f7c01320f3eb7ecf
-#EXTINF:-1 tvg-logo="  "group-title="Generalistas",Onetoro
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9pjfWBgkF9h1yxoN71D0eL9v7Mh_-w2eyA&s "group-title="Generalistas",Onetoro
 acestream://536c879d8a914e43141d778b3567fa017c9f5eeb
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRet6EDzybqUDeIBxpfK9xHcL-y03wqMVKQ3Q&s " tvg-id="HBO MAX" group-title="Movistar+", HBO MAX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRet6EDzybqUDeIBxpfK9xHcL-y03wqMVKQ3Q&s"tvg-id="HBO MAX" group-title="Movistar+", HBO MAX
 acestream://039719b35e6987a9b5888a8f4b903b3d31d2552d
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS9gV2lPutW5hwAxxo7OWz7oIXH62aW9HC-ku8mtxvwBGPGSxDMOSwMfyL&s=10" tvg-id="Movistar Plus+ HD" group-title="Movistar+", M+Romance
 acestream://c8a8710788e86761c4c702ee5cb7164e2a0e2d7a
