@@ -90,7 +90,7 @@ acestream://c976c7b37964322752db562b4ad65515509c8d36
 acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title="DAZN LA LIGA", DAZN  LaLiga 2
 acestream://a70a1605f69c8379e04094df96922a42adfbb431
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs8rPQ6EWZqTOgMuS5CA6-pz9ueFF-p0n76g&s" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMON TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs8rPQ6EWZqTOgMuS5CA6-pz9ueFF-p0n76g&s" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV
 acestream://4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 
 acestream://c457b5614df986a6e6a24ffd9547964820ca65fb
