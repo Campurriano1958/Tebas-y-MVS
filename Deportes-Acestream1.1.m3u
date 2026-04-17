@@ -231,7 +231,7 @@ acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 http://localhost:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
 acestream://5b776533534b767a84dfda263825ad10f30a8ec7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
+EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
 http://vps-54774a0a.vps.ovh.ca:8000/live/k0k2lekadsd/5ChytL2YeC/70260.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
 acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
@@ -266,8 +266,8 @@ acestream://b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
 http://localhost:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 BAR" group-title="DAZN", DAZN 2 BAR
 http://localhost:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 EVENTOS" group-title="DAZN", DAZN EVENTOS 1
-acestream://1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 EVENTOS" group-title="DAZN", DAZN1 serie A
+acestream://6bb383508fd46eda68a47b0e21fb5a069d63b0c1
 #EXTINF:-1 tvg-logo="  https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 EVENTOS" group-title="DAZN", DAZN EVENTOS 2
 acestream://8bdeb6055da0be3bd1e1977dbf3640408f7d0267
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 PORT.
