@@ -138,9 +138,9 @@ acestream://e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", ⭐️M+ DEPORTES⭐️
 acestream://6e031aed136bf97d8667fcd5fc49c73256928281
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
+EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
 http://localhost:6878/ace/getstream?infohash=115f2bb8bd939a1ee005958fb5dccbe36ffb8f53
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
+EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
 acestream://c6a824a81b36f6c3529826477caf2ad94b45776d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES 
 acestream://6e031aed136bf97d8667fcd5fc49c73256928281
