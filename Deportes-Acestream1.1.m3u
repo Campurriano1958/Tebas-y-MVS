@@ -208,7 +208,7 @@ acestream://b2d560741c006fc5e4a42412bb52dbd25a6a4a3a
 http://localhost:6878/ace/getstream?infohash=e0cbc2bdf9765afb8bcbc3401a2bfaea27e61e44
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ldpJq_wrbjC2z9zRs8ihCKZqxd_IfvUiiw&usqp=CAU"tvg-id="MotoGP"group-title="MOTO GP",🛎Moto GP🛎
 acestream://18b03739d660f0066364343e226e437bf2555d56
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ldpJq_wrbjC2z9zRs8ihCKZqxd_IfvUiiw&usqp=CAU"tvg-id="MotoGP"group-title="MOTO GP", Moto GP
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ldpJq_wrbjC2z9zRs8ihCKZqxd_IfvUiiw&usqp=CAU"tvg-id="MotoGP"group-title="MOTO GP", Moto GP
 acestream://11cbb5346d28af0b972e646832f4be23dd39502d
 EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ldpJq_wrbjC2z9zRs8ihCKZqxd_IfvUiiw&usqp=CAU"tvg-id="MotoGP"group-title="MOTO GP", Moto GP
 acestream://5548659c188e1d4d3b6e756e6c56485eb242abac
