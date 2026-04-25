@@ -116,6 +116,10 @@ acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
 acestream://778d2f60bb7207addedcca0b9aed98f41529724e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 3
 acestream://1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
+#EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es  "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
+
+#EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es  "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", 🛎M+ PLUS🛎
 acestream://c1b7f54af0de256d1ac0fcac4c130e62660089f4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", M+ PLUS
