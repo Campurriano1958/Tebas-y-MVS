@@ -5,12 +5,12 @@ EXTM3U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol DAZN
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol 
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol LA1
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial LA1
 http://localhost:6878/ace/getstream?infohash=4572c00e7a1eabf1c4310e27e08a497e152569b7
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol
