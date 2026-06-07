@@ -25,6 +25,8 @@ http://localhost:6878/ace/getstream?infohash=4572c00e7a1eabf1c4310e27e08a497e152
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol
 acestream://abfb5236dee14625fe1b19ee27f3a89fb6767dcb
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol
+acestream://0d780c1fb5fdf2121d9544f1a6892cb1053dd061
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDtpB3n-ZOdpwtI48yUVgFH3vqNG7D9LaG9g&s"tvg-id="M+La LigaTV HD" group-title="LA LIGA",🛎M+ LaLiga🛎 
 acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA",⭐️M+ LaLiga⭐️
