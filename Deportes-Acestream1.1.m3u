@@ -6,6 +6,8 @@ EXTM3U
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
+acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
