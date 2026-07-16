@@ -5,9 +5,9 @@ EXTM3U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMb5KBlkZxtKHAho7Dqmvl6mIrJMNrPdson-pattbpQ&s"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
+#EXTINF:-1tvg-logo=" https://www.foxsports.com.mx/resizer/v2/5TMWD54Z3FEDZJJ745FWA5S7Q4.jpg?auth=a3a49e3f08f54d7ef87497df006e054ca71186d0a3649d1b3f96b2432c3561e2&width=300"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMb5KBlkZxtKHAho7Dqmvl6mIrJMNrPdson-pattbpQ&s"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
+#EXTINF:-1tvg-logo=" https://www.foxsports.com.mx/resizer/v2/5TMWD54Z3FEDZJJ745FWA5S7Q4.jpg?auth=a3a49e3f08f54d7ef87497df006e054ca71186d0a3649d1b3f96b2432c3561e2&width=300  "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
@@ -27,9 +27,9 @@ acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
 acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol 
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMb5KBlkZxtKHAho7Dqmvl6mIrJMNrPdson-pattbpQ&s "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial LA1
+#EXTINF:-1tvg-logo=" https://www.foxsports.com.mx/resizer/v2/5TMWD54Z3FEDZJJ745FWA5S7Q4.jpg?auth=a3a49e3f08f54d7ef87497df006e054ca71186d0a3649d1b3f96b2432c3561e2&width=300 "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial LA1
 acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDMb5KBlkZxtKHAho7Dqmvl6mIrJMNrPdson-pattbpQ&s "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial LA1
+#EXTINF:-1tvg-logo=" https://www.foxsports.com.mx/resizer/v2/5TMWD54Z3FEDZJJ745FWA5S7Q4.jpg?auth=a3a49e3f08f54d7ef87497df006e054ca71186d0a3649d1b3f96b2432c3561e2&width=300 "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial LA1
 acestream://37c7e8bbc2fb95d29a063bef2e569ad3858f8edd
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol
