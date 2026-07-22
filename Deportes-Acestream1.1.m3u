@@ -5,36 +5,36 @@ EXTM3U
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
-#EXTINF:-1tvg-logo=" https://i.ytimg.com/vi/pJ_QSrs6TtI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDIiDHc0h1Hh-9mwnSGOgcyYY_FA"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
+EXTINF:-1tvg-logo=" https://i.ytimg.com/vi/pJ_QSrs6TtI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDIiDHc0h1Hh-9mwnSGOgcyYY_FA"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065
-#EXTINF:-1tvg-logo=" https://i.ytimg.com/vi/pJ_QSrs6TtI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDIiDHc0h1Hh-9mwnSGOgcyYY_FA "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
+EXTINF:-1tvg-logo=" https://i.ytimg.com/vi/pJ_QSrs6TtI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDIiDHc0h1Hh-9mwnSGOgcyYY_FA "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://ccfde4bc75d14c79dd09af72434568a0e732d507
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://414222dc7b69a626f29eb964450dae44b3bc9b36
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN
 acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN2
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN2
 acestream://085afc93f3c502fb31fb79253ebc58e5a8949e84
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN2
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN2
 acestream://63b1933154919d116f08e33ffcb31a23f9483989
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN2
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN2
 acestream://635b61c1f240449163260cd914d10d886a54fee3
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN3
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN3
 acestream://7cf306fc097deca7005b220b1f6206bd654b5ca5
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN4
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial DAZN4
 acestream://aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol 
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol 
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
-#EXTINF:-1tvg-logo=" https://i.ytimg.com/vi/pJ_QSrs6TtI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDIiDHc0h1Hh-9mwnSGOgcyYY_FA "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial LA1
+EXTINF:-1tvg-logo=" https://i.ytimg.com/vi/pJ_QSrs6TtI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDIiDHc0h1Hh-9mwnSGOgcyYY_FA "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial LA1
 acestream://979d3b873871a5a9a56d3eb481ca77b707e01102
-#EXTINF:-1tvg-logo="https://i.ytimg.com/vi/pJ_QSrs6TtI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDIiDHc0h1Hh-9mwnSGOgcyYY_FA "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial LA1
+EXTINF:-1tvg-logo="https://i.ytimg.com/vi/pJ_QSrs6TtI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDDIiDHc0h1Hh-9mwnSGOgcyYY_FA "tvg-id="mundial de futbol" group-title="mundial de futbol",mundial LA1
 acestream://37c7e8bbc2fb95d29a063bef2e569ad3858f8edd
 
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol
 acestream://abfb5236dee14625fe1b19ee27f3a89fb6767dcb
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYX9Yd_QZ-hCGpInnYAqoR8GzbB3Sy3HoVhXi16dyDJQ&s=10"tvg-id="mundial de futbol" group-title="mundial de futbol",mundial de futbol
 acestream://0d780c1fb5fdf2121d9544f1a6892cb1053dd061
 #EXTINF:-1tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png "tvg-id="M+La LigaTV HD" group-title="LA LIGA",🛎M+ LaLiga🛎 
 acestream://b3bdd6ef7f795c4f321a3ce5cf4907338f462929
