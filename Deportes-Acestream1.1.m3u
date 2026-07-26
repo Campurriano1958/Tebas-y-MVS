@@ -467,23 +467,23 @@ acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd
 acestream://9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="Generalistas", ANTENA 3
 acestream://f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="Generalistas", CUATRO
+EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="Generalistas", CUATRO
 acestream://8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="Generalistas", CUATRO
 acestream://03f24ddb1f1451b308fd0d5f72ec6d353ffd8e41
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
+EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
 acestream://3840043b15fd7ac7846004d151ea7b51800fffc0
 EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
 acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
 acestream://3e7b1911a1f83fd869b6995650a3057778259ca7
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
+EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
 acestream://bd38dba903a3d627fb053c9d907b1635a52fba3b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SX1jhBzy/lasexta.png" tvg-id="La Sexta HD" group-title="Generalistas", LA SEXTA
 acestream://6fa8e5288e9b91c926134362f7c01320f3eb7ecf
 #EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG9pjfWBgkF9h1yxoN71D0eL9v7Mh_-w2eyA&s "group-title="Generalistas",Onetoro
 acestream://536c879d8a914e43141d778b3567fa017c9f5eeb
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6qUOmnpRvq1KPI5LeLC0odU1v71XUAxsRFKN6I46X4y2WFUKs-gHN1E&s"group-title="Generalistas", Disney Junior
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6qUOmnpRvq1KPI5LeLC0odU1v71XUAxsRFKN6I46X4y2WFUKs-gHN1E&s"group-title="Generalistas", Disney Junior
 acestream://a722bc25dfa16d1112fde83cb79501b9756586d1
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRet6EDzybqUDeIBxpfK9xHcL-y03wqMVKQ3Q&s"tvg-id="HBO MAX" group-title="Movistar+", HBO MAX
 acestream://039719b35e6987a9b5888a8f4b903b3d31d2552d
@@ -493,15 +493,15 @@ acestream://c8a8710788e86761c4c702ee5cb7164e2a0e2d7a
 acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="Movistar+", M+ PLUS
 acestream://b6ffbbc72a5b6b579faf79ebac229af7a25b933b
-#EXTINF:-1tvg-logo=" https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Movistar+",DISNEY CHANNEL
+EXTINF:-1tvg-logo=" https://docdog.top/logo/countries/spain/movistar/Disney_Channel.png" group-title="Movistar+",DISNEY CHANNEL
 acestream://a722bc25dfa16d1112fde83cb79501b9756586d1
-#EXTINF:-1 tvg-logo="https://dlvt1u0vrr0ux.cloudfront.net/media/public/oscars-header.png" tvg-id="Movistar Plus+ HD" group-title="Movistar+", M+ OSCARS
+EXTINF:-1 tvg-logo="https://dlvt1u0vrr0ux.cloudfront.net/media/public/oscars-header.png" tvg-id="Movistar Plus+ HD" group-title="Movistar+", M+ OSCARS
 acestream://3c4185422b04ef24c80e015210339f805d80f9f0
 EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ ClÃƒÆ’Ã‚Â¡sicos HD" group-title="Movistar+", M+ CLASICOS
 acestream://6462c8f65fcaa6e4fc874fef8d1e45bb7a7e6bae
 EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Estrenos_por_Movistar_Plus%2B_2025_Logo.svg/330px-Estrenos_por_Movistar_Plus%2B_2025_Logo.svg.png"tvg-id="M+Estrenos" group-title="Movistar+",M+ Estrenos
 acestream://5d35f906b735f25164fa2b9b7a4e6ef91dfed131
-#EXTINF:-1 tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/b/b6/Acci%C3%B3n_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230721192021" tvg-id="M+ Accion HD" group-title="Movistar+", M+ Accion
+EXTINF:-1 tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/b/b6/Acci%C3%B3n_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230721192021" tvg-id="M+ Accion HD" group-title="Movistar+", M+ Accion
 acestream://cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Indie_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/200?cb=20230801070038",M+ Indie
 acestream://205cf36437bf4e0643398f62f212832d4b8e271f
@@ -517,7 +517,7 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZWQiq
 acestream://19cab799c86251ae8ae5f4b4faace9b78d784abc
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPGfy6rBeRHDbkZAx4sTELqa-IL1vnO1FgEQ&s",M+ Clasicos
 acestream://cf6ffdfa3c51268c0bd216da6b275fb866160c0c
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yep3FDJbNbgnQNPxxmGG5tVMAIFGi_6tbg&usqp=CAU" tvg-id="Cocina   ", Cocina
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_yep3FDJbNbgnQNPxxmGG5tVMAIFGi_6tbg&usqp=CAU" tvg-id="Cocina   ", Cocina
 acestream://96f092e1fa99062f6da14cae230b877ad3ed849b
 EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES: M+ DRAMA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Drama.png" group-title="M+Drama",ES: M+ DRAMA
 acestream://fc469b1e22f9a75bf7079995876955b9b293ef7e
@@ -531,7 +531,7 @@ acestream://25465ea2deba65c623b7659136abf6fcc9f5dc20
 acestream://0abff11099cfe1bb45fac7fd29e996a68a9f1463
 #EXTINF:-1 tvg-logo=" https://play-lh.googleusercontent.com/ZDSjarTntWnvUp47rSsoVwbT7PU-FqDHSkzQ5nc0CTlAbujoKUQr2_jw7QBbMF2hmQ ",Onetoro
 acestream://536c879d8a914e43141d778b3567fa017c9f5eeb
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6qUOmnpRvq1KPI5LeLC0odU1v71XUAxsRFKN6I46X4y2WFUKs-gHN1E&s  ", Disney Junior
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo6qUOmnpRvq1KPI5LeLC0odU1v71XUAxsRFKN6I46X4y2WFUKs-gHN1E&s  ", Disney Junior
 acestream://a722bc25dfa16d1112fde83cb79501b9756586d1
 EXTINF:-1 tvg-logo=" https://www.cineytele.com/wp-content/uploads/2023/01/XTRM.png ",XTRM
 acestream://d7d3830018cfd93c7430c19ba703a053680476a0
