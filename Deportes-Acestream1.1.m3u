@@ -114,7 +114,7 @@ acestream://709075831bf5c41ed0a20dfbd640aab6c28971f8
 acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 2
 acestream://3a21e651c0bffe810cfc8537065cb81f5ed68a55
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", ⭐️HYPERMOTION TV 3⭐️
 http://localhost:6878/ace/getstream?infohash=5434dc50d2774ba50d5837cdb006c4b43cff9de2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 3
 acestream://778d2f60bb7207addedcca0b9aed98f41529724e
