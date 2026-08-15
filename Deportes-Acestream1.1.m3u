@@ -586,28 +586,28 @@ acestream://9231f38e71a85ad24b4c11a5e360992e30c916ed
 
 
 
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s  " tvg-id=" Sky Sports " group-title=" UK Sky Sports", Sky Sports Plus
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s  " tvg-id=" Sky Sports " group-title="⚽️ INTERNACIONALES", Sky Sports Plus
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" UK Sky Sports", Sky Sports Arena
+#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports Arena
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" UK Sky Sports", Sky Sports Footbaal
+#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports Footbaal
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" UK Sky Sports", Sky Sports Maint Event
+#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports Maint Event
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" UK Sky Sports", Sky Sports cricket
+#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports cricket
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweTbEohelbhpXERyo-h4h2WFFL4Us6QtXvROaqk0ukfI_1DMfCk9ckJI&stvg-id="Premier Sports1" group-title="Premier Sports",Premier League1
+#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweTbEohelbhpXERyo-h4h2WFFL4Us6QtXvROaqk0ukfI_1DMfCk9ckJI&stvg-id="Premier Sports1" group-title=" ",Premier League1
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweTbEohelbhpXERyo-h4h2WFFL4Us6QtXvROaqk0ukfI_1DMfCk9ckJI&s"tvg-id="Premier Sports1" group-title="Premier Sports",Premier League2
+#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweTbEohelbhpXERyo-h4h2WFFL4Us6QtXvROaqk0ukfI_1DMfCk9ckJI&s"tvg-id="Premier Sports1" group-title=" ",Premier League2
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s  "group-title="BT Sport", BT Sport1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s  "group-title="  ", BT Sport1
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="BT Sport", BT Sport1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="  ", BT Sport1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="BT Sport", BT Sport2
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="  ", BT Sport2
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="BT Sport", BT Sport3
+#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="  ", BT Sport3
 acestream://5f966c123759de46dff29c379266b7a403452033
 EXTINF:-1 tvg-logo="  "group-title="BT Sports", BT Sports4
 acestream://
