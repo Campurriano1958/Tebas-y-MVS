@@ -380,10 +380,10 @@ EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/da/Eur
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153622" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 2
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",ML.CAMPEONES
+EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",⭐️ML.CAMPEONES⭐️
 acestream://ba5ba3fa8420df4cc48c6ebb837358547ea4f7e7
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML.CAMPEONES 
-acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ⭐️ML.CAMPEONES⭐️ 
+acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML.CAMPEONES 
 acestream://63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",ML.CAMPEONES
@@ -396,8 +396,8 @@ acestream://778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 acestream://97df5b7824948972d041d8ca2a4d29c90b641bc9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",⭐️ ML.CAMPEONES ⭐️
 acestream://91b2a1fe85f5bb4a6cf9ef6d01cc65883d986920
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML.CAMPEONES 
-acestream://c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ⭐️ML.CAMPEONES ⭐️
+acestream://91af434b0bb521189286f8cbbab1aed39d7536fe
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML.CAMPEONES 
 acestream://2b51710cee513e8939785fa3e7980f32d4e0415f
 #EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML.CAMPEONES 
