@@ -17,7 +17,7 @@ acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga⭐️
 acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga⭐️ 
+EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga⭐️ 
 http://localhost:6878/ace/getstream?infohash=24df97fc04240ce7d437e2a5f635bfdf16d0e850
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
@@ -27,13 +27,13 @@ acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
 EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 
 acestream://f863873de9f7b2996dde19a0657dd89835af3007
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga ⭐️
+EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga ⭐️
 http://localhost:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga 2⭐️
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
 EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 2
 http://localhost:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 2
+EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 2
 http://localhost:6878/ace/getstream?infohash=725760009950ad23ed444de76c0f5a98c536620c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 2
 acestream://caa631e8850e3eb5e7c039063dd8a339ccef1176
@@ -45,7 +45,7 @@ acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3
 acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 3
 acestream://571ce113b9d600a145766443d7417eccab2e1846
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 3
+EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 3
 http://localhost:6878/ace/getstream?infohash=b24546262982de27283bb378307bb427509ed814
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga3 ⭐️
 acestream://571ce113b9d600a145766443d7417eccab2e1846
@@ -93,7 +93,7 @@ acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 acestream://a70a1605f69c8379e04094df96922a42adfbb431
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/CBdGc9f/hypermotion1.png " tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", ⭐️HYPERMOTION TV⭐️
 acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/CBdGc9f/hypermotion1.png " tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", ⭐️HYPERMOTION TV⭐️
+EXTINF:-1 tvg-logo=" https://i.ibb.co/CBdGc9f/hypermotion1.png " tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", ⭐️HYPERMOTION TV⭐️
 http://localhost:6878/ace/getstream?infohash=554d691110a3bcb4964794ac2d8565160c6ca9be
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", ⭐️HYPERMOTION TV ⭐️
 acestream://2c54a4def58f41fc0d2163450a63f12955b656aa
@@ -105,7 +105,7 @@ acestream://58b1c4b8cb65d648505b035a04e879672fcd8e3f
 acestream://87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV 
 acestream://edccb6f240ea9d42a0ad89505f9f46fe315aecdb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", ⭐️HYPERMOTION TV⭐️
+EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", ⭐️HYPERMOTION TV⭐️
 http://localhost:6878/ace/getstream?infohash=f996be469a37cfe62f25565669010c6d367d8686
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", ⭐️HYPERMOTION TV⭐️
 acestream://e4cbd1a425120b1f44b523a55bd1a98c31cad9fe
@@ -151,7 +151,7 @@ acestream://e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES
 acestream://
-#EqXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", ⭐️M+ DEPORTES⭐️
+EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", ⭐️M+ DEPORTES⭐️
 http://localhost:6878/ace/getstream?infohash=8aba55f4f1f47def54447e845518109d797339e7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", ⭐️M+ DEPORTES ⭐️
 acestream://acb510858f34c3c6fd5f79395b031abd6885c2b3
@@ -251,12 +251,12 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group
 acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN",⭐️DAZN 1⭐️
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", 🌟DAZN 1🌟
+EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", 🌟DAZN 1🌟
 http://localhost:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
 acestream://5b776533534b767a84dfda263825ad10f30a8ec7
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
-http://vps-54774a0a.vps.ovh.ca:8000/live/k0k2lekadsd/5ChytL2YeC/70260.ts
+acestream://
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
 acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
@@ -265,7 +265,6 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group
 acestream://4141892f5df7d6474bf0279895ce02b7336c9928
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1
 acestream://b03f9310155cf3b4eafc1dfba763781abc3ff025
-
 EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN",DAZN 2
 acestream://d60b8c154828cb990b7bb1570764b215bd979e74
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN",⭐️DAZN 2⭐️
@@ -295,7 +294,7 @@ http://localhost:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b1
 EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 BAR" group-title="DAZN", DAZN 2 BAR
 http://localhost:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 EVENTOS" group-title="DAZN", DAZN EVENTOS
-
+acestream://
 EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENTOS"group-title="Baloncesto",DAZN EVENTOS 1
 acestream://23bee556c002d0726c1f0cac98a1901cff0a9239
 EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENTOS"group-title="Baloncesto",DAZN EVENTOS 1
@@ -309,7 +308,7 @@ acestream://02ec118ee4586d96df9115ffc486be9a499d00d9
 acestream://108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz84rt4cqxAOfBf8eM7wXBZzDEVp6lkzLr7w&usqp=CAU " tvg-id="UFC"group-title="UFC", UFC
 acestream://96537527b2d5e858b2e6c863a00dec304254091d
-#EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" MOTOR", RALLY TV
+EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" MOTOR", RALLY TV
 http://localhost:6878/ace/getstream?infohash=e0c14b0c6aa96988da11319f4c6377f886df6037
 #EXTINF:-1 tvg-logo=" https://premiumvns.com/wp-content/uploads/2023/04/rallytv-wrc.png"group-title=" MOTOR", RALLY TV
 acestream://8e96e35afd910d1a056dc7bf25139b8e2849b2ea
@@ -468,7 +467,7 @@ acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1 🌟
 acestream://37c7e8bbc2fb95d29a063bef2e569ad3858f8edd
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVztRAAzOyEWKrAU4Wx0ITOLA9TlRA749d2w&usqp=CAU="24 horas" group-title="Generalistas", 24 horas
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVztRAAzOyEWKrAU4Wx0ITOLA9TlRA749d2w&usqp=CAU="24 horas" group-title="Generalistas", 24 horas
 http://localhost:6878/ace/getstream?infohash=69fb291c6204b5c84b5696579a0c8a343829f1ff
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1🌟 
 acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
@@ -524,9 +523,9 @@ EXTINF:-1 tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/b/b6/Ac
 acestream://cdaf3337bfa80a7d92d673c6ccfec23d3aa92b3c
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Indie_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/200?cb=20230801070038",M+ Indie
 acestream://205cf36437bf4e0643398f62f212832d4b8e271f
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Originales_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/300?cb=20230801070235",M+ Originales
+EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Originales_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/300?cb=20230801070235",M+ Originales
 http://localhost:6878/ace/getstream?infohash=fcfe83e9b75169730fedf7375127c0190443972e
-#EXTINF:-1tvg-logo=" https://docdog.top/logo/countries/spain/movistar/M_Comedia.png", M+Comedia
+EXTINF:-1tvg-logo=" https://docdog.top/logo/countries/spain/movistar/M_Comedia.png", M+Comedia
 http://localhost:6878/ace/getstream?infohash=28e3a4ee2f3d9876435c534a49e34e1a4ced0f12
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png",M+Documentales
 acestream://3c1b00267a398093848ded743cfdb547e2232216
@@ -560,25 +559,25 @@ acestream://8b9e46eb3a9b4ef23b7d3d86c73a0851580f8caa
 
 #EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 1"group-title=" NL SPORTS", ESPN 
 acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 1"group-title=" NL SPORTS", ESPN 
+EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 1"group-title=" NL SPORTS", ESPN 
 http://localhost:6878/ace/getstream?infohash=dda76be0877ee2b4e5619a88f878ca47978cc09d
 #EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 2"group-title=" NL SPORTS", ESPN 2
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 2"group-title=" NL SPORTS", ESPN 2
+EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 2"group-title=" NL SPORTS", ESPN 2
 http://localhost:6878/ace/getstream?infohash=1114c803ee0f7dd7b5af5be42e49b5cdc64db2b5
 #EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 3"group-title=" NL SPORTS", ESPN 4
 acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
-#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 3"group-title=" NL SPORTS", ESPN 4
+EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 3"group-title=" NL SPORTS", ESPN 4
 http://localhost:6878/ace/getstream?infohash=d18e752ade97d8be74a99887fec550472335b99f
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport1" group-title="NL SPORTS",ZIGGO SPORTS 1
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport1" group-title="NL SPORTS",ZIGGO SPORTS 1
+EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport1" group-title="NL SPORTS",ZIGGO SPORTS 1
 http://localhost:6878/ace/getstream?infohash=8e475c8b9f12270c524f88f5659cc6811fc1399c
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport2" group-title="NL SPORTS",ZIGGO SPORTS 2
 acestream://dfdd43e65c05f90ea88a8cc372da7d60aedc8379
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport2" group-title="NL SPORTS",ZIGGO SPORTS 2
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport2" group-title="NL SPORTS",ZIGGO SPORTS 2
+EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport2" group-title="NL SPORTS",ZIGGO SPORTS 2
 http://localhost:6878/ace/getstream?infohash=fca28f51d5500d131770230b033c5da2b36ebf9c
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport3" group-title="NL SPORTS",ZIGGO SPORTS 3
 acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
