@@ -7,6 +7,9 @@ EXTM3U
 acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeFqgC2r_6PQ8ES9BGo6KmOmP24Pz5ytAVw&s "tvg-id="evento" group-title="evento",tennis channel
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
+#EXTINF:-1tvg-logo=" "tvg-id="evento" group-title="evento",NBA
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+
 
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSr9tUrCuNhCJWK9MkzU7Evuu05z5-gGGQ0GK0Q_TSqg9Mj1ksZvSWHN0&s=10"tvg-id="M+La LigaTV HD" group-title="LA LIGA",⭐️M+ LaLiga⭐️
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
