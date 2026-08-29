@@ -28,7 +28,7 @@ acestream://4b528d10eaad747ddf52251206177573ee3e9f74
 acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA",⭐️ M+ LaLiga⭐️ 
 acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
-EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 
 acestream://f863873de9f7b2996dde19a0657dd89835af3007
 EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga ⭐️
 http://localhost:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
