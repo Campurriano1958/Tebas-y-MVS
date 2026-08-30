@@ -4,6 +4,8 @@ EXTM3U
 
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s "tvg-id="evento" group-title="evento",evento directo
 acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s "tvg-id="evento" group-title="evento",evento directo
+acestream://6a9eb897cc11d8300b0f8728f7d8ef00ad8f36a0
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeFqgC2r_6PQ8ES9BGo6KmOmP24Pz5ytAVw&s "tvg-id="evento" group-title="evento",tennis channel
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7K-0aow_u9uZB-V4cJ13TyX7R36LfPyLyBAohNDmqOA&s=10 "tvg-id="evento" group-title="evento",NBA
