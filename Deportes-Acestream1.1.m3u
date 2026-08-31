@@ -357,6 +357,8 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-t
 http://localhost:6878/ace/getstream?infohash=648bba63051a31d5b0e49ec4a9707ea65835e35d
 
 #EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es  "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
+acestream://7b742628b9f7e82902bdbc1ff92eba1988875cfc
+#EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es  "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
 acestream://599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 #EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es  "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
 acestream://a2ed6f2ca3f804481131c41ce64d4286a5820476
