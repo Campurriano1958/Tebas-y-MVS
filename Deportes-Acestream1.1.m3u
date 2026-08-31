@@ -1,5 +1,4 @@
 
-
 EXTM3U
 
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s "tvg-id="evento" group-title="evento",evento directo
@@ -306,8 +305,14 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 BAR" grou
 http://localhost:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b15f6c4
 EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 BAR" group-title="DAZN", DAZN 2 BAR
 http://localhost:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
-#EXTINF:-1tvg-logo="  "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO
+
+
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsHrcaV0DdDkH0qgp1Le9U8d-tZqzEr7t2zJNrUho5g&s "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO
+acestream://
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsHrcaV0DdDkH0qgp1Le9U8d-tZqzEr7t2zJNrUho5g&s "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsHrcaV0DdDkH0qgp1Le9U8d-tZqzEr7t2zJNrUho5g&s "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO
+acestream://
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 EVENTOS" group-title="DAZN", DAZN EVENTOS
 acestream://
 #EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQz0PGa5Y711Yk98sVPgarhROvgES0KZ-RRw&usqp=CAU"tvg-id="DAZN EVENENTOS"group-title="Baloncesto",DAZN EVENTOS 1
