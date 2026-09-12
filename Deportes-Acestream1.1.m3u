@@ -370,8 +370,8 @@ acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
 acestream://895d08633bb22c2573281655cf3ca44de476cc73
 EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
 acestream://38e9ae1ee0c96d7c6187c9c4cc60ffccb565bdf7
-EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
-http://localhost:6878/ace/getstream?infohash=648bba63051a31d5b0e49ec4a9707ea65835e35d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
+acestream://acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 
 #EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es  "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
 acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
