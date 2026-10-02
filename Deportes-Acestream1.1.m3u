@@ -609,13 +609,13 @@ EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt
 http://localhost:6878/ace/getstream?infohash=d18e752ade97d8be74a99887fec550472335b99f
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport1" group-title="NL SPORTS",ZIGGO SPORTS 1
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport1" group-title="NL SPORTS",ZIGGO SPORTS 1
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport1" group-title="NL SPORTS",ZIGGO SPORTS 1
 http://localhost:6878/ace/getstream?infohash=8e475c8b9f12270c524f88f5659cc6811fc1399c
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport2" group-title="NL SPORTS",ZIGGO SPORTS 2
 acestream://dfdd43e65c05f90ea88a8cc372da7d60aedc8379
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport2" group-title="NL SPORTS",ZIGGO SPORTS 2
 acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport2" group-title="NL SPORTS",ZIGGO SPORTS 2
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport2" group-title="NL SPORTS",ZIGGO SPORTS 2
 http://localhost:6878/ace/getstream?infohash=fca28f51d5500d131770230b033c5da2b36ebf9c
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport3" group-title="NL SPORTS",ZIGGO SPORTS 3
 acestream://7f50e06f715720e944cce35fa90b6b7a8db04b2e
