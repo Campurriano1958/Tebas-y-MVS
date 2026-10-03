@@ -509,6 +509,8 @@ EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVztRA
 http://localhost:6878/ace/getstream?infohash=69fb291c6204b5c84b5696579a0c8a343829f1ff
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1 🌟
 http://localhost:6878/ace/getstream?infohash=481c1fb401bb4f4b35d272acbd4fedaf96c51aff
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1 🌟
+http://localhost:6878/ace/getstream?infohash=2f771a355d4f1e703fa83cb51e2b1b113bffec98
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1🌟 
 acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1 🌟
