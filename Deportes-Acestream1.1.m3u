@@ -358,6 +358,8 @@ acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 acestream://20086a76248efe8d5230c15d41c69bae8fa6381c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
 acestream://02be332ebead0484a5354fa25e97b6833b8b129e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
+http://localhost:6878/ace/getstream?infohash=6d325cda6ed591647ef5e91edd043147bce8be30
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
 acestream://f8b0eae8fda973cf426311541d1668aa592f0a8c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
@@ -377,7 +379,7 @@ acestream://895d08633bb22c2573281655cf3ca44de476cc73
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
 acestream://f16d68fa5ff64f3894a45062ca28e4e66f142c6a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
-acestream://acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc
+acestream://82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 
 #EXTINF://1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es  "tvg-id=" 1RFEF"group-title="1RFEF",1RFEF
 acestream://3fbc1b7dc316f19b77e7f7cfc775a0af67adcc7f
