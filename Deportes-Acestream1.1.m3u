@@ -504,9 +504,11 @@ acestream://97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 9" group-title="LIGA DE CAMPEONES", ML.CAMPEONES 9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1 🌟
-acestream://37c7e8bbc2fb95d29a063bef2e569ad3858f8edd
+acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd
 EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVztRAAzOyEWKrAU4Wx0ITOLA9TlRA749d2w&usqp=CAU="24 horas" group-title="Generalistas", 24 horas
 http://localhost:6878/ace/getstream?infohash=69fb291c6204b5c84b5696579a0c8a343829f1ff
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1 🌟
+http://localhost:6878/ace/getstream?infohash=481c1fb401bb4f4b35d272acbd4fedaf96c51aff
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1🌟 
 acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🌟LA 1 🌟
