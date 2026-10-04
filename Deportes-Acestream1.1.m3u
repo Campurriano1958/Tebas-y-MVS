@@ -356,7 +356,7 @@ acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
 acestream://20086a76248efe8d5230c15d41c69bae8fa6381c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
+EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
 acestream://02be332ebead0484a5354fa25e97b6833b8b129e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", 💥DAZN F1💥
 http://localhost:6878/ace/getstream?infohash=6d325cda6ed591647ef5e91edd043147bce8be30
