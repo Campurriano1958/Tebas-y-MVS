@@ -39,7 +39,7 @@ acestream://f863873de9f7b2996dde19a0657dd89835af3007
 acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA",💥 M+ LaLiga 💥
 acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga 2⭐️
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", 🚨M+ LaLiga 2🚨
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 2
 http://localhost:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a
@@ -57,9 +57,9 @@ acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 acestream://571ce113b9d600a145766443d7417eccab2e1846
 EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga 3
 http://localhost:6878/ace/getstream?infohash=b24546262982de27283bb378307bb427509ed814
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga3 ⭐️
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", 🚨M+ LaLiga3🚨 
 acestream://571ce113b9d600a145766443d7417eccab2e1846
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", ⭐️M+ LaLiga 4⭐️
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", 🚨M+ LaLiga 4🚨
 acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA",💥DAZN LaLiga💥
 acestream://7f9857c45764ef2c7cdfb619b89db3056a57a51f
@@ -75,7 +75,7 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/head
 acestream://55538acc9fd25a9ea6df5c842eb0327f87eac300
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
 acestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title=" LA LIGA" , 🛎DAZN LaLiga🛎
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title=" LA LIGA" , 🚨DAZN LaLiga🚨
 acestream://dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title=" LA LIGA", 🛎DAZN LaLiga🛎
 acestream://385abcf801b787eec6ed6624908758bb165c0a55
