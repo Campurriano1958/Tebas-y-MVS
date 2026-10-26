@@ -581,7 +581,7 @@ EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/E
 acestream://5d35f906b735f25164fa2b9b7a4e6ef91dfed131
 #EXTINF:-1 tvg-logo="  https://static.wikia.nocookie.net/logopedia/images/b/b6/Acci%C3%B3n_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230721192021" tvg-id="M+ Accion HD" group-title="Movistar+", M+ Accion
 acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d
-#EXTINF:-1 tvg-logo="  " tvg-id="M+ Accion HD" group-title="Movistar+", M+Hits
+#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyuYGSErO7zFBkp0jfi6CvExEOrgNw4T4lqg&s " tvg-id="M+ Accion HD" group-title="Movistar+", M+Hits
 acestream://0bb012ac0e815b413831687a4a9b61777b3338f4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Indie_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/200?cb=20230801070038",M+ Indie
 acestream://205cf36437bf4e0643398f62f212832d4b8e271f
