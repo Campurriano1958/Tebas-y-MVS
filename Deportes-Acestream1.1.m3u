@@ -3,7 +3,7 @@ EXTM3U
 
 #EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/tfNu_zkEogYgFT8LOxd3ZrsQkdXoF5gXKqqcF62X9PPrbwqSxwZPEvL4p50eWbHBrHKSo7yL9Akv0y9ihumX "tvg-id="M+La LigaTV HD" group-title="LA LIGA",M+ LaLiga
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA",🚀M+ LaLiga🚀
+EXTINF:-1 tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA",🚀M+ LaLiga🚀
 acestream://623f9ce3c4adfcd9771da41a6cc433632cf2c680
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA",🚀M+ LaLiga🚀
 acestream://2816e0c7e4f6a19a0cc9d1c363936a186ab89771
