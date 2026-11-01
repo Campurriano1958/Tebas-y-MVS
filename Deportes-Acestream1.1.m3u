@@ -289,7 +289,7 @@ acestream://dddff67edfa7061f643ec5ae0be110169850363d
 acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN",DAZN 1
 acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="🎲DAZN", DAZN 1🎲
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", 🎲DAZN 1🎲
 http://localhost:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
 acestream://5b776533534b767a84dfda263825ad10f30a8ec7
@@ -645,11 +645,11 @@ acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 http://localhost:6878/ace/getstream?infohash=dda76be0877ee2b4e5619a88f878ca47978cc09d
 #EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 2"group-title=" NL SPORTS", ESPN 2
 acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 2"group-title=" 🎲NL SPORTS", ESPN 2🎲
+#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 2"group-title=" NL SPORTS", 🎲ESPN 2🎲
 http://localhost:6878/ace/getstream?infohash=1114c803ee0f7dd7b5af5be42e49b5cdc64db2b5
 #EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 3"group-title=" NL SPORTS", ESPN 4
 acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
-#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 3"group-title="🎲 NL SPORTS", ESPN 4🎲
+#EXTINF:-1 tvg-logo=" https://r2.thesportsdb.com/images/media/channel/logo/wc8dnt1660760493.png" tvg-id=" ESPN 3"group-title="NL SPORTS", 🎲ESPN 4🎲
 http://localhost:6878/ace/getstream?infohash=d18e752ade97d8be74a99887fec550472335b99f
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsqUi-XPZdSD5rIiAs0Padcisr0IhaZfRVyQ&s"tvg-id=" ziggo sport1" group-title="NL SPORTS",🚨ZIGGO SPORTS 1🚨
 acestream://fcd7621df513f600652b4813d5d8fd1daed60058
