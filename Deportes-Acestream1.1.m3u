@@ -286,8 +286,8 @@ acestream://e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 acestream://20d4b3586bb822c3618cf8fb665a304869c5e1a5
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ldpJq_wrbjC2z9zRs8ihCKZqxd_IfvUiiw&usqp=CAU"tvg-id="DAZN MotoGP"group-title="DAZN MOTO GP",🎲Moto GP🎲
 http://localhost:6878/ace/getstream?infohash=0d4b3b5f63c6afd180d9e5e2e57528e15a5218ab
-EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN",DAZN 1
-acestream://dddff67edfa7061f643ec5ae0be110169850363d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN",🚩DAZN 1🚩
+acestream://43572587b8e9fd112d43b66a36f8ab2c591d87d1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN",DAZN 1
 acestream://f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN",DAZN 1
