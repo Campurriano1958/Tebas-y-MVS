@@ -587,8 +587,8 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" gro
 acestream://8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="Generalistas", CUATRO
 acestream://03f24ddb1f1451b308fd0d5f72ec6d353ffd8e41
-EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
-acestream://3840043b15fd7ac7846004d151ea7b51800fffc0
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", 🚩TELECINCO🚩
+acestream://14b1f7bf6e42f9b7dbb3213cedc6086f7908ac28
 EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
 acestream://5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 EXTINF:-1 tvg-logo=" https://i.ibb.co/81wJ3GH/telecinco.png  " tvg-id="Telecinco HD" group-title="Generalistas", TELECINCO
