@@ -569,8 +569,8 @@ EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-tit
 http://localhost:6878/ace/getstream?infohash=2f771a355d4f1e703fa83cb51e2b1b113bffec98
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🚩LA 1 🚩
 acestream://4ce1d784cf9b1fda3f73a5a1eedcd342b952bc29
-EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
-acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas",🚩 LA 1🚩 
+acestream://fff8654ad6ef3ddb4ce3998bda9056ab28a66a1a
 EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
 acestream://6a494f8e736b962d94f63425ebe3df90723af0fa
 EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
