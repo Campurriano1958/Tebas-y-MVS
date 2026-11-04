@@ -143,7 +143,7 @@ http://localhost:6878/ace/getstream?infohash=4e47587f3cf57196825a5e9144873917309
 EXTINF:- tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofa4YPcHJ51W-MnBbhY64T5C9A2ak1RaxyCoa3y86xA&s" tvg-id="Real Madrid"group-title="M+Deportes",Real Madrid
 acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes",🚩M+PLUS🚩
-acestream://a2d33536b7d55727c8f6bea010624d6478c3ba2d
+acestream://d2b5299ed45cbaf35482bb0869b2c2f75fbed64a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", M+PLUS
 acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", 🚨M+ PLUS🚨
