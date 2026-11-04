@@ -565,17 +565,17 @@ acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd
 http://localhost:6878/ace/getstream?infohash=69fb291c6204b5c84b5696579a0c8a343829f1ff
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas",🎲LA 1🎲
 http://localhost:6878/ace/getstream?infohash=481c1fb401bb4f4b35d272acbd4fedaf96c51aff
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🎲LA 1🎲 
+EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", 🎲LA 1🎲 
 http://localhost:6878/ace/getstream?infohash=2f771a355d4f1e703fa83cb51e2b1b113bffec98
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
+EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
 acestream://da38a21a9509be8c03b0fdb539cb1485843330c3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
+EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
 acestream://02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
+EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
 acestream://6a494f8e736b962d94f63425ebe3df90723af0fa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
+EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
 acestream://23c952c5b375715db822f2783803c6e28fab0e34
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1
+EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1
 acestream://37c7e8bbc2fb95d29a063bef2e569ad3858f8edd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="Generalistas", LA 1 
 acestream://9c079e1bbd01814c107e89187b8c24ba0ac306dd
