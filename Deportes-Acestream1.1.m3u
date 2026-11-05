@@ -1,4 +1,4 @@
-#EXTM3U
+8#EXTM3U
 
 #EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/tfNu_zkEogYgFT8LOxd3ZrsQkdXoF5gXKqqcF62X9PPrbwqSxwZPEvL4p50eWbHBrHKSo7yL9Akv0y9ihumX "tvg-id="M+La LigaTV HD" group-title="LA LIGA"💡M+ LaLiga💡
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
@@ -64,7 +64,7 @@ acestream://571ce113b9d600a145766443d7417eccab2e1846
 acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA",DAZN LaLiga
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA",🚨DAZN LaLiga🚨
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA",💡DAZN LaLiga💡
 acestream://3097d7e7ff0fe414711ee067a841168b6f5671cb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA",DAZN LaLiga
 acestream://eb4975702ceadca7ed74f8707e17a9f55569dbb9
@@ -106,7 +106,7 @@ acestream://c976c7b37964322752db562b4ad65515509c8d36
 acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title=" LA LIGA", DAZN  LaLiga 2
 acestream://a70a1605f69c8379e04094df96922a42adfbb431
-#EXTINF:-1 tvg-logo=" https://i.ibb.co/CBdGc9f/hypermotion1.png " tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION TV
+#EXTINF:-1 tvg-logo=" https://i.ibb.co/CBdGc9f/hypermotion1.png " tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION",💡 HYPERMOTION TV💡
 acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/CBdGc9f/hypermotion1.png " tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", 🚩HYPERMOTION TV🚩
 acestream://a19cada553b895e719796741d9d86785c986fce0
