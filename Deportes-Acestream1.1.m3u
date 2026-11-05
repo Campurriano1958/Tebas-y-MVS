@@ -172,8 +172,8 @@ http://localhost:6878/ace/getstream?infohash=1548a79a7fff262149dad057f7cf0046503
 acestream://e19c1fc5e3ada56c60d45257f7f4ed0d14bf7003
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ 2HD" group-title="M+Deportes", M+ PLUS 2
 acestream://fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
-EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", M+ DEPORTES
-acestream://
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", 🏴M+ DEPORTES🏴
+http://localhost:6878/ace/getstream?infohash=b853818b57c4cf6274c60c66aaa539b28e3148c8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", 🎲M+ DEPORTES🎲
 http://localhost:6878/ace/getstream?infohash=8aba55f4f1f47def54447e845518109d797339e7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="M+Deportes", 🎈M+ DEPORTES🎈 
