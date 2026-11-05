@@ -266,7 +266,7 @@ EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7
 acestream://9fb99c40a2c45d5c5342b30626eb56140f980612
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ldpJq_wrbjC2z9zRs8ihCKZqxd_IfvUiiw&usqp=CAU"tvg-id="DAZN MotoGP"group-title="DAZN MOTO GP",Moto GP
 acestream://129c707eb4854171d178a566f36d90b7f2b5e624
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ldpJq_wrbjC2z9zRs8ihCKZqxd_IfvUiiw&usqp=CAU"tvg-id="DAZN MotoGP"group-title="DAZN MOTO GP",Moto GP
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ldpJq_wrbjC2z9zRs8ihCKZqxd_IfvUiiw&usqp=CAU"tvg-id="DAZN MotoGP"group-title="DAZN MOTO GP",💡Moto GP💡
 acestream://2a05a020dfe97aaa0665bb7551022868b2a88b36
 #EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7ldpJq_wrbjC2z9zRs8ihCKZqxd_IfvUiiw&usqp=CAU"tvg-id="DAZN MotoGP"group-title="DAZN MOTO GP", Moto GP
 acestream://11cbb5346d28af0b972e646832f4be23dd39502d
@@ -377,7 +377,7 @@ acestream://442aeb6643b8836f9d00361c9e48eeb0841ddf98
 acestream://35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1tvg-logo="  https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1013190/page_bg_raw.jpg?t=1549400127  "group-title="MOTOR",Retrovision Motor
 acestream://b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1",💡 DAZN F1💡
 acestream://ee4646aae30d862e0d9d453998a344a60aaa7cde
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1
 acestream://0295e6b7930a468ac98475b3ebeec18e4b75986a
