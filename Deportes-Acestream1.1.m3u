@@ -451,7 +451,7 @@ EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/da/Eur
 acestream://dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo=" https://static.wikia.nocookie.net/logopedia/images/d/da/Eurosport_2_%28II%29.svg/revision/latest/scale-to-width-down/250?cb=20210809153622" tvg-id="Eurosport 2 HD" group-title="EUROSPORT",🎈EUROSPORT 2🎈
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",🚩ML.CAMPEONES🚩
+EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",🚩ML.CAMPEONES🚩
 acestream://a197b53a1bd96cf3622ac6199d4a11a07b6b6fb7
 EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",🏴ML.CAMPEONES🏴
 http://127.0.0.1:6878/ace/getstream?id=bbc88eebc094d054d8131987231e0ec8aca1495b
@@ -459,7 +459,7 @@ EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/mas
 acestream://160e657985e1bb04ce216e8d180580f96df553bb
 EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",ML.CAMPEONES
 acestream://ab230c6aded2f51935ac720d205e426a43d50989
-#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",🏴ML.CAMPEONES🏴
+EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",🏴ML.CAMPEONES🏴
 http://127.0.0.1:6878/ace/getstream?id=f079cadc2ec13a5565c1deb0dee7bc9bb053affe
 EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",ML.CAMPEONES
 acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
