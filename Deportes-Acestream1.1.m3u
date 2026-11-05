@@ -521,8 +521,8 @@ EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/ma
 acestream://66b373c0da20ac615996dbd1c340087f50a9a39e
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", ML.CAMPEONES 3
 acestream://c9afaf4965ad627ea6983fec9f63e0c1e857028d
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", 🚩ML.CAMPEONES 4🚩
-acestream://5bda0cd15ed353abfdc5561a945f2f3903c9fa9e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", 🏴ML.CAMPEONES 4🏴
+http://localhost:6878/ace/getstream?infohash=2550ea6d32d3384dcc8ac149c711bceb70d4b005
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES",🎈ML.CAMPEONES 4🎈
 acestream://6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", ML.CAMPEONES 4
