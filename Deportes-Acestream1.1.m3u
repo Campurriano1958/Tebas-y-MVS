@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/tfNu_zkEogYgFT8LOxd3ZrsQkdXoF5gXKqqcF62X9PPrbwqSxwZPEvL4p50eWbHBrHKSo7yL9Akv0y9ihumX "tvg-id="M+La LigaTV HD" group-title="LA LIGA",M+ LaLiga
+#EXTINF:-1tvg-logo="https://play-lh.googleusercontent.com/tfNu_zkEogYgFT8LOxd3ZrsQkdXoF5gXKqqcF62X9PPrbwqSxwZPEvL4p50eWbHBrHKSo7yL9Akv0y9ihumX "tvg-id="M+La LigaTV HD" group-title="LA LIGA"💡M+ LaLiga💡
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA",🚩M+ LaLiga🚩
 acestream://3d4c3b9d44af0658a9ec6b29c92033f732b65422
@@ -144,7 +144,7 @@ EXTINF:- tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTofa4
 acestream://ac353757b626cedc6461d8eb73bfffa15fbb7be7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes",🚩M+PLUS🚩
 acestream://d2b5299ed45cbaf35482bb0869b2c2f75fbed64a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", M+PLUS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", 💡M+PLUS💡
 acestream://67121cbb722b88ce4489717e9a87a26f60184ec9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="M+Deportes", 🚨M+ PLUS🚨
 acestream://fa931cbc87dc9d66fdd30a9644e054b403960056
