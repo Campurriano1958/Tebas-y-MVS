@@ -190,13 +190,13 @@ acestream://af393f93814d03160d48d2730759593b7bea5b47
 http://localhost:6878/ace/getstream?infohash=a0fd9380808627dc9dd061348caa6065e7b6037a
 #EXTINF:- 1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", 🎈M+ DEPORTES 2🎈
 acestream://3afe1af18f8ff78e9946856911b00c67477052b5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTE2
+EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTE2
 acestream://6b15368775693c33c49fab02e7900c1976a5da90
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes",M+ DEPORTES 2
+EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes",M+ DEPORTES 2
 acestream://8cd8fd69c6755ec452e9e74b33a0d1a653452191
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTES 2
+EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTES 2
 acestream://890901fa742b19d8808cf49f19db2d3016437c56
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTES 2
+EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", M+ DEPORTES 2
 acestream://3774d8feab016ca766b35ea8488e7514ca30e0ee
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="M+Deportes", 🎲M+ DEPORTES 2🎲
 http://localhost:6878/ace/getstream?infohash=a0fd9380808627dc9dd061348caa6065e7b6037a
