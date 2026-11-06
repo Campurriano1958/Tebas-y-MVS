@@ -697,50 +697,50 @@ http://zp10.arswpsv.top:8080/vip2431777645903/210c6e7981d1/34195
 http://neospaxy.top:8080/1831724172658175/493eb9f62687/61558
 #EXTINF:- 1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRonb51629f_FoMoTboNYNZPNir4mW3HFYTkg&s"tvg-id="viaplay"group-title=" ", VIAPLAY 3
 http://zp10.arswpsv.top:8080/vip2431777645903/210c6e7981d1/34196
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s  " tvg-id=" Sky Sports " group-title="⚽️ INTERNACIONALES", Sky Sports Plus
+EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s  " tvg-id=" Sky Sports " group-title="⚽️ INTERNACIONALES", Sky Sports Plus
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports Arena
+EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports Arena
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports Footbaal
+EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports Footbaal
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports Maint Event
+EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports Maint Event
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports cricket
+EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHBgV0OciagvvhUTijs7fdrr4DtxXr53Tsww&s " tvg-id=" Sky Sports " group-title=" ", Sky Sports cricket
 acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweTbEohelbhpXERyo-h4h2WFFL4Us6QtXvROaqk0ukfI_1DMfCk9ckJI&stvg-id="Premier Sports1" group-title=" ",Premier League1
+EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweTbEohelbhpXERyo-h4h2WFFL4Us6QtXvROaqk0ukfI_1DMfCk9ckJI&stvg-id="Premier Sports1" group-title=" ",Premier League1
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweTbEohelbhpXERyo-h4h2WFFL4Us6QtXvROaqk0ukfI_1DMfCk9ckJI&s"tvg-id="Premier Sports1" group-title=" ",Premier League2
+EXTINF:-1tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRweTbEohelbhpXERyo-h4h2WFFL4Us6QtXvROaqk0ukfI_1DMfCk9ckJI&s"tvg-id="Premier Sports1" group-title=" ",Premier League2
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s  "group-title="  ", BT Sport1
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s  "group-title="  ", BT Sport1
 acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="  ", BT Sport1
+EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="  ", BT Sport1
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="  ", BT Sport2
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="  ", BT Sport2
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="  ", BT Sport3
+EXTINF:-1 tvg-logo="  https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcFlDoGbdhYQbRFfKZsgaBQsZPzZIrwIiCfg&s"group-title="  ", BT Sport3
 acestream://5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title="  ",Sport tv2
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title="  ",Sport tv2
 acestream://bad281a31a626c5ca18754e7b55725eea9fa7eca
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title=" ",Sport tv3
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title=" ",Sport tv3
 acestream://ec2cbc782281624753f20fb0f9a6797651ddfc6c
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title=" ",Sport tv3
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title=" ",Sport tv3
 acestream://13d84366dcb9607c15cd9a78b5a3921046ac65b6
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title="  ",Sport tv7
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title="  ",Sport tv7
 acestream://e6b9ccd80ee0027e887d0a27b07e8f032de25b27
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title="  ",Sport tv+
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title="  ",Sport tv+
 acestream://e24b30556ad82c782bbfa003b384b85ecea8f647
-#EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title=" ",Sport tv+
+EXTINF:-1 tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCW-mIPYTdJngJkf0JmRVxt2dKsV5AGxKR5oODuhen5rGzaoJBv3rcVHe&s=10 "group-title=" ",Sport tv+
 acestream://620df183a3d9647079aeee52dcb6dfd8c44eb447
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s "tvg-id="evento" group-title="evento",evento directo
+EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s "tvg-id="evento" group-title="evento",evento directo
 acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s "tvg-id="evento" group-title="evento",evento directo
+EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZzXKNg5d7lbuEkfX1HstIfnjLzz--2o5LEg&s "tvg-id="evento" group-title="evento",evento directo
 acestream://6a9eb897cc11d8300b0f8728f7d8ef00ad8f36a0
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeFqgC2r_6PQ8ES9BGo6KmOmP24Pz5ytAVw&s "tvg-id="evento" group-title="evento",tennis channel
+EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeFqgC2r_6PQ8ES9BGo6KmOmP24Pz5ytAVw&s "tvg-id="evento" group-title="evento",tennis channel
 acestream://a277a7457af1d8181b5ccdbb0d79871b460ef690
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeFqgC2r_6PQ8ES9BGo6KmOmP24Pz5ytAVw&s "tvg-id="evento" group-title="evento",tennis channel
+EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeFqgC2r_6PQ8ES9BGo6KmOmP24Pz5ytAVw&s "tvg-id="evento" group-title="evento",tennis channel
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
-#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7K-0aow_u9uZB-V4cJ13TyX7R36LfPyLyBAohNDmqOA&s=10 "tvg-id="evento" group-title="evento",NBA
+EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7K-0aow_u9uZB-V4cJ13TyX7R36LfPyLyBAohNDmqOA&s=10 "tvg-id="evento" group-title="evento",NBA
 acestream://e72d03fb9694164317260f684470be9ab781ed95
 
 
