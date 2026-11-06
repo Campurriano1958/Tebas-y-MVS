@@ -100,11 +100,11 @@ acestream://4ef8d5f781b709d479cfc3961de9c92f0f0dcb0c
 acestream://34d4ed86aa5e56a84b151a80f6904605a0f77854
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title=" LA LIGA", 🎈DAZN  LaLiga 2🎈
 acestream://4855b5c3263f207260e1c6cbd8c234df799cf7f2
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title=" LA LIGA", DAZN  LaLiga 2
-acestream://c976c7b37964322752db562b4ad65515509c8d36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title=" LA LIGA", DAZN  LaLiga 2
-acestream://1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title=" LA LIGA", DAZN  LaLiga 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title=" LA LIGA", 🎈DAZN  LaLiga 2🎈
+acestream://357e71223aad8bf80d3b86d31d9a0f75dd42d91e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title=" LA LIGA", 🎈DAZN  LaLiga 2🎈
+acestream://8c0fa8c0f1be146dcc64a94e37c64993df86c72a
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN 2 LaLiga HD" group-title=" LA LIGA", DAZN  LaLiga 2
 acestream://a70a1605f69c8379e04094df96922a42adfbb431
 #EXTINF:-1 tvg-logo=" https://i.ibb.co/CBdGc9f/hypermotion1.png " tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION",💡 HYPERMOTION TV💡
 acestream://135c420f704d717b8913b2a66b2722fd6b2c127c
