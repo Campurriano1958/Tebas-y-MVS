@@ -623,8 +623,8 @@ acestream://f3a6d058791f0818a3301f9d5eeb60cfb54d905d
 acestream://0bb012ac0e815b413831687a4a9b61777b3338f4
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/Indie_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/200?cb=20230801070038",M+ Indie
 acestream://205cf36437bf4e0643398f62f212832d4b8e271f
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Originales_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/300?cb=20230801070235",🎲M+ Originales🎲
-http://localhost:6878/ace/getstream?infohash=fcfe83e9b75169730fedf7375127c0190443972e
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/09/Originales_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/300?cb=20230801070235",M+ Originales
+acestream://60a59a6259b6d4cb5b826e1847cd0af0a7ecc1ce
 #EXTINF:-1tvg-logo=" https://docdog.top/logo/countries/spain/movistar/M_Comedia.png", 🎲M+Comedia🎲
 http://localhost:6878/ace/getstream?infohash=28e3a4ee2f3d9876435c534a49e34e1a4ced0f12
 #EXTINF:-1 tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png",M+Documentales
