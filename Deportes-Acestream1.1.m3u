@@ -226,8 +226,8 @@ acestream://8f982a0d6e3196c12d0034142b65008321150f7c
 acestream://f75efb1ab987e9b207daccb9a3d49efa056bdd95
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", 🚀M+VAMOS🚀
 acestream://3d44884484303f51879f93ddaff6e4c267df2e3e
-EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
-acestream://ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
+acestream://86262568aa72b956b06ac67b1c310a32248a0e98
 EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
 acestream://8686522bd5d0b123cbc94ad4a12f2d3a18492479
 EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="M+Deportes", M+VAMOS
