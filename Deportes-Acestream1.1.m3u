@@ -296,8 +296,8 @@ acestream://d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 http://localhost:6878/ace/getstream?infohash=0560234787945a17522e284c4c22bb4df29f33b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", 🎈DAZN 1🎈 
 acestream://7063fb3baac2aa226050e475fbf0df461041bd4c
-EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", 🏴DAZN 1 🏴
-acestream://78124d96a1a4601e7910f50e36a16e35efcfb398
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
+acestream://49545d05f95846e93fd8f08da320be866995c550
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
 acestream://a116ce3ff95c41c60e987e2b1aa247007f707884
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 
