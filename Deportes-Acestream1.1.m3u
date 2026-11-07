@@ -336,13 +336,13 @@ http://localhost:6878/ace/getstream?infohash=d0a5eb107ed5d70f542e7483e2d0f9068b1
 http://localhost:6878/ace/getstream?infohash=7d64b566d7f3a8e892a1a8cafc9521b9cddd5df6
 
 
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsHrcaV0DdDkH0qgp1Le9U8d-tZqzEr7t2zJNrUho5g&s "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO
-acestream://34b91125bd752462f1eca2d8d52f5f40fa761aa0
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsHrcaV0DdDkH0qgp1Le9U8d-tZqzEr7t2zJNrUho5g&s "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO1
+acestream://d22f026975a17af9a10e52935f50ea6d5c0de3f3
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsHrcaV0DdDkH0qgp1Le9U8d-tZqzEr7t2zJNrUho5g&s "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO 2
 acestream://c8c33b2673efe7f386790c5966643820578f3535
 #EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsHrcaV0DdDkH0qgp1Le9U8d-tZqzEr7t2zJNrUho5g&s "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO 2
 acestream://88113ee23295b8930ae328a88a8c1b861b8f21f1
-#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsHrcaV0DdDkH0qgp1Le9U8d-tZqzEr7t2zJNrUho5g&s "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO
+#EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStsHrcaV0DdDkH0qgp1Le9U8d-tZqzEr7t2zJNrUho5g&s "tvg-id="M+Baloncesto" group-title="Baloncesto", M+BALONCESTO1
 acestream://837883625d40e1eb5566eefaf74811046491f53a
 EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 EVENTOS" group-title="DAZN", DAZN EVENTOS
 acestream://
