@@ -464,7 +464,7 @@ EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/mas
 acestream://ab230c6aded2f51935ac720d205e426a43d50989
 EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",🏴ML.CAMPEONES🏴
 http://127.0.0.1:6878/ace/getstream?id=f079cadc2ec13a5565c1deb0dee7bc9bb053affe
-EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",ML.CAMPEONES
+#EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES",ML.CAMPEONES
 acestream://bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
 EXTINF:-1tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", ML.CAMPEONES
 acestream://931fd4c24398a24beb9b6ede856ca34339ff2c22
@@ -757,6 +757,7 @@ EXTINF:-1tvg-logo=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPeFqg
 acestream://a4cbadd19442b800727be713270fa9c917cc8582
 EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7K-0aow_u9uZB-V4cJ13TyX7R36LfPyLyBAohNDmqOA&s=10 "tvg-id="evento" group-title="evento",NBA
 acestream://e72d03fb9694164317260f684470be9ab781ed95
+
 
 
 
