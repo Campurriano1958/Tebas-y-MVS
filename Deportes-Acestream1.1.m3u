@@ -6,9 +6,9 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
 
-#EXTINF:-1tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png "tvg-id="M+La Liga"group-title="M+laliga",M+ LaLiga
+#EXTINF:-1tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png "tvg-id="M+La Liga"group-title="M+la liga",M+ LaLiga
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+laliga",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+la liga",M+ LaLiga
 acestream://3d4c3b9d44af0658a9ec6b29c92033f732b65422
 #EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+la liga",M+ LaLiga
 http://127.0.0.1:6878/ace/getstream?id=25ba36fb3ff78d37b304177cb5b9f9f84348d2ad
@@ -66,9 +66,9 @@ acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 acestream://5d75fbc6900598e32cfe9a3dae5517d4d69d75ba
 #EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+la liga", M+ LaLiga 3
 acestream://0b9d1fcff22c26e249458a3fe83af70adc5477e0
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+la liga",♦️M+LaLiga3♦️
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+la liga",♦️M+ LaLiga 3♦️
 acestream://571ce113b9d600a145766443d7417eccab2e1846
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+la liga",♦️M+LaLiga 4♦️
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+la liga",♦️M+ LaLiga 4♦️
 acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="Dazn LA LIGA",DAZN LaLiga
 acestream://819b5627494a7830591ed7b995268315edcc7d0a
