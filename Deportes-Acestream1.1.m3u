@@ -5,7 +5,6 @@
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 
-
 #EXTINF:-1tvg-logo=" https://i.ibb.co/yfV1Q8n/liga.png "tvg-id="M+La Liga"group-title="M+la liga",M+ LaLiga
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+la liga",M+ LaLiga
