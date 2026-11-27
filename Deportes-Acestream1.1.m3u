@@ -2,68 +2,68 @@
 
 #EXTM3U
 
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+La LigaTV HD"group-title="M+ Laliga",💡M+ LaLiga💡
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+La LigaTV HD"group-title="liga",💡M+ LaLiga💡
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ Laliga",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="liga",M+ LaLiga
 acestream://3d4c3b9d44af0658a9ec6b29c92033f732b65422
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA",M+ LaLiga
 http://127.0.0.1:6878/ace/getstream?id=25ba36fb3ff78d37b304177cb5b9f9f84348d2ad
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="LIGA",M+ LaLiga
 http://127.0.0.1:6878/ace/getstream?id=1c00e6a5404f84e9bd22aa9d8f09e96ffa4ab319
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA",M+ LaLiga
 acestream://2816e0c7e4f6a19a0cc9d1c363936a186ab89771
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA",M+ LaLiga
 acestream://2772b75c3bc7cfe214514a7745f63024620f3a29
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA",M+ LaLiga
 acestream://f9e9258cb14ede2f9369be4cba395ffe3e04e4fb
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",♦️M+ LaLiga♦️
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="LIGA",♦️M+ LaLiga♦️
 acestream://31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",🏴M+ LaLiga🏴
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="LIGA",🏴M+ LaLiga🏴
 http://localhost:6878/ace/getstream?infohash=c1959a27edb0b94c5005a2dea93b7a70d4312f1c
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="LIGA",M+ LaLiga
 acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA",M+ LaLiga
 acestream://69f76f6516620d91612e7509077b5ac3bb4d3c0b
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA",M+ LaLiga
 acestream://79c9dbec46dfa7de3acea6e5e05118e17dc0f065
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga
 acestream://3ce95bc9d6fc63676d828bb2cfc7a1f1854fd259
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 
 acestream://5ad75216a63a31fef23ddc3532edc66c2fc0936c
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="LIGA", M+ LaLiga 
 acestream://4b528d10eaad747ddf52251206177573ee3e9f74
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 
 acestream://c9321006921967d6258df6945f1d598a5c0cbf1e
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga acestream://3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 
 acestream://f863873de9f7b2996dde19a0657dd89835af3007
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 
 acestream://a64e02a6d914f098cbe1b724ff4f7aef83419a4a
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 
 acestream://0febfb5cac3384f487d55c559bbfc877db2d0357
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 2
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 2
 acestream://c5323596ae77cdb49d3792281d541678f174da37
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",♦️M+ LaLiga 2♦️
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA",♦️M+ LaLiga 2♦️
 acestream://b8eb9c9868d487402569bba2d97a8af113d033fe
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 2
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 2
 http://localhost:6878/ace/getstream?infohash=8a25653a2f774f4ae1062d38a30dcd714d304a3a
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M +LA LIGA", M+ LaLiga 2
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 2
 acestream://67966d205968de9cf95dcffe3b2ff6888b106634
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",M+ LaLiga 2
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA",M+ LaLiga 2
 acestream://caa631e8850e3eb5e7c039063dd8a339ccef1176
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 2
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 2
 acestream://b45cfe568e106a7df65c950805d6f123c989ce84
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 2
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 2
 acestream://b63fcadc2390455d8a328f6c16b8b0a9adec21a3
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 2
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 2
 acestream://ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 3
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title=" LIGA", M+ LaLiga 3
 acestream://5d75fbc6900598e32cfe9a3dae5517d4d69d75ba
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA", M+ LaLiga 3
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="LIGA", M+ LaLiga 3
 acestream://0b9d1fcff22c26e249458a3fe83af70adc5477e0
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",♦️M+LaLiga3♦️
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="LIGA",♦️M+LaLiga3♦️
 acestream://571ce113b9d600a145766443d7417eccab2e1846
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="M+ LA LIGA",♦️M+LaLiga 4♦️
+#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="LIGA",♦️M+LaLiga 4♦️
 acestream://22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="Dazn LA LIGA",DAZN LaLiga
 acestream://819b5627494a7830591ed7b995268315edcc7d0a
