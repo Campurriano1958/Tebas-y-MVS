@@ -4,8 +4,9 @@
 
 
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
-#EXTM3U
-#EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+La LigaTV HD"group-title="liga",M+ LaLiga
+
+
+#EXTINF:-1tvg-logo="  "tvg-id="M+La Liga"group-title="laliga",M+ LaLiga
 acestream://0b5f802f2de6488b4023d0f05195486e19d81ed7
 #EXTINF:-1tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png"tvg-id="M+LaLiga TV HD"group-title="liga",M+ LaLiga
 acestream://3d4c3b9d44af0658a9ec6b29c92033f732b65422
@@ -77,7 +78,8 @@ acestream://e8dc3e7a1ee14566fc2d56a11037ee091e40f2e5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="Dazn LA LIGA", DAZN LaLiga
 acestream://529f5abd2c87209f69c0727ade740ff6f160be88
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="Dazn LA LIGA", DAZN LaLiga
-acestream://7d898e9c227d706e5479b9b523ad615847825d14
+acestream://7d898e9c227d706e5479b9b523ad615847825d14
+
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LaLiga
 cestream://71cb5e2567a8b39f5bdc4fa791992781b052f0bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="Dazn LA LIGA" , ♦️DAZN LaLiga♦️
